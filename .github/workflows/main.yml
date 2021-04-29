@@ -12,7 +12,7 @@ jobs:
         id: sync
         with:
           auth: ${{ secrets.GIST_TOKEN }}
-          gist_url: https://gist.github.com/joeeoj/441d53a94cfdddc585153d885227c0e9
+          gist_url: https://gist.github.com/joeeoj/ed1bd5ca0935f1d04f44a6728c113f75
           gist_title: resume
           gist_description: resume
           github_file: resume.json
