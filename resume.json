@@ -1,0 +1,119 @@
+{
+  "basics": {
+    "name": "Mike Yu",
+    "label": "Senior Data Analyst",
+    "image": "https://www.gravatar.com/avatar/0e5e4bf192a59ed85e67cd71870cd72a",
+    "email": "mike@mike-yu.com",
+    "website": "https://mike-yu.com",
+    "location": {
+      "city": "Seattle",
+      "countryCode": "US",
+      "region": "Washington"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "mryu1",
+        "url": "https://www.linkedin.com/in/mryu1/"
+      },
+      {
+        "network": "GitHub",
+        "username": "joeeoj",
+        "url": "https://github.com/joeeoj"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Ekata",
+      "location": "Seattle, WA",
+      "startDate": "2019-01-01",
+      "position": "Senior Data Analyst",
+      "website": "https://ekata.com/",
+      "summary": "Senior data analyst on a seven person Data team. Our team is responsible for our Graph database which powers Ekata’s APIs. My role focuses forecasting how changes to our pipeline can improve our products and designing methods to evaluate data quality.",
+      "highlights": [
+        "Designed data validation constraints to reduce wasted processing hours by 50%",
+        "Created a Python script that normalizes years of csv reports to enable trend analysis of data builds",
+        "Model our data to forecast how product improvements will impact customers",
+        "Mentor new members, including teaching practical applications of Databricks and Spark"
+      ]
+    },
+    {
+      "company": "Ekata",
+      "location": "Seattle, WA",
+      "startDate": "2017-11-01",
+      "endDate": "2018-12-31",
+      "position": "Solutions Architect",
+      "website": "https://ekata.com/",
+      "highlights": [
+        "Conducted regression analysis of customer data to prove a clear ROI",
+        "Pitched and led transition from Excel to Jupyter Notebooks as the team’s primary method of data analysis"
+      ]
+    },
+    {
+      "company": "University of Washington",
+      "location": "Seattle, WA",
+      "startDate": "2015-05-01",
+      "endDate": "2017-10-27",
+      "position": "Business Analyst",
+      "website": "https://www.washington.edu/",
+      "highlights": [
+        "Project Manager for an implementation of JD Edwards responsible for managing $300M per year",
+        "Created a web app using Flask to summarize sprint data for communicating status updates to leadership"
+      ]
+    },
+    {
+      "company": "Intermedix",
+      "location": "Augusta, GA",
+      "startDate": "2012-10-01",
+      "endDate": "2015-04-30",
+      "position": "Business Analyst / Project Manager",
+      "highlights": [
+        "Lead Business Analyst for $5 million, multi-year project with the California Office of Emergency Services",
+        "Learned HTML, CSS, JavaScript, and XPath on the job to work directly with our developers in translating the customer requirements into a finished product"
+      ]
+    },
+    {
+      "company": "Comcast Spotlight",
+      "location": "Augusta, GA",
+      "startDate": "2010-08-31",
+      "endDate": "2012-09-28",
+      "position": "Sales Specialist",
+      "highlights": [
+        "Conducted qualitative market analysis of Orion demographic data to create advertising proposals",
+        "Coordinated with traffic team to manage and schedule local ad space to maximize revenue"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Knox College",
+      "website": "https://www.knox.edu/",
+      "area": "Music (Jazz Studies)",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2006-09-15",
+      "endDate": "2010-06-05"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": ["Python", "SQL", "Scala"]
+    },
+    {
+      "name": "Platforms",
+      "keywords": ["AWS", "Databricks"]
+    },
+    {
+      "name": "Tools",
+      "keywords": ["Spark SQL", "PySpark", "Airflow", "Athena", "Postgres", "SQLite", "pandas"]
+    }
+  ],
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "meta": {
+    "theme": "paper",
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2021-04-28T00:00:00"
+  }
+}
