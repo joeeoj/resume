@@ -25,17 +25,30 @@
   },
   "work": [
     {
-      "company": "Ekata",
+      "company": "Ekata (a Mastercard company)",
       "location": "Seattle, WA",
-      "startDate": "2019-01-01",
+      "startDate": "2020-04-01",
       "position": "Senior Data Analyst",
       "website": "https://ekata.com/",
-      "summary": "Senior data analyst on a seven person Data team. Our team is responsible for our Graph database which powers Ekata’s APIs. My role focuses forecasting how changes to our pipeline can improve our products and designing methods to evaluate data quality.",
       "highlights": [
-        "Designed data validation constraints to reduce wasted processing hours by 50%",
-        "Created a Python script that normalizes years of csv reports to enable trend analysis of data builds",
-        "Model our data to forecast how product improvements will impact customers",
-        "Mentor new members, including teaching practical applications of Databricks and Spark"
+        "Create data pipelines using Airflow to automate repetitive data loads",
+        "Designed a data evaluation method that guides $7M a year in data buying decisions",
+        "Lead Scrum ceremonies and manage the team’s Jira metrics",
+        "Mentor new team members on our Graph schema and using SparkSQL"
+      ]
+    },
+    {
+      "company": "Ekata (a Mastercard company)",
+      "location": "Seattle, WA",
+      "startDate": "2019-01-01",
+      "endDate": "2020-03-31",
+      "position": "Data Analyst",
+      "website": "https://ekata.com/",
+      "highlights": [
+        "Lead Data Analyst on a high-stakes data replacement project that resulted in 10% improvement of Ekata’s Graph address data",
+        "Expert in the schema and structure of Ekata’s Graph database",
+        "Created a Jenkins integration to enable version control of Databricks notebooks",
+        "Ran what-if analysis on the customer impact of changes to our data ingestion logic"
       ]
     },
     {
@@ -46,20 +59,21 @@
       "position": "Solutions Architect",
       "website": "https://ekata.com/",
       "highlights": [
-        "Conducted regression analysis of customer data to prove a clear ROI",
-        "Pitched and led transition from Excel to Jupyter Notebooks as the team’s primary method of data analysis"
+        "Created tailored solutions of our APIs for customers through analysis of their data to demonstrate a clear ROI",
+        "Automated repeatable tasks by creating an internal Python module used by the team",
+        "Introduced Jupyter notebooks making it the new method of analysis, previously Excel"
       ]
     },
     {
       "company": "University of Washington",
       "location": "Seattle, WA",
       "startDate": "2015-05-01",
-      "endDate": "2017-10-27",
+      "endDate": "2017-10-31",
       "position": "Business Analyst",
       "website": "https://www.washington.edu/",
       "highlights": [
-        "Project Manager for an implementation of JD Edwards responsible for managing $300M per year",
-        "Created a web app using Flask to summarize sprint data for communicating status updates to leadership"
+        "Project Manager of a custom implementation of JD Edwards (Oracle) to manage $300 million in accounts receivable per year",
+        "Pulled data for budget analysts using SQL and UW’s Enterprise Data Warehouse (EDW)"
       ]
     },
     {
@@ -69,8 +83,8 @@
       "endDate": "2015-04-30",
       "position": "Business Analyst / Project Manager",
       "highlights": [
-        "Lead Business Analyst for $5 million, multi-year project with the California Office of Emergency Services",
-        "Learned HTML, CSS, JavaScript, and XPath on the job to work directly with our developers in translating the customer requirements into a finished product"
+        "Implemented professional services projects for a .NET crisis management CMS",
+        "Lead Business Analyst for $5 million, multi-year project with the state of California"
       ]
     },
     {
@@ -80,8 +94,7 @@
       "endDate": "2012-09-28",
       "position": "Sales Specialist",
       "highlights": [
-        "Conducted qualitative market analysis of Orion demographic data to create advertising proposals",
-        "Coordinated with traffic team to manage and schedule local ad space to maximize revenue"
+        "Supported sales team with contract management, billing inquiries, and ad copy changes"
       ]
     }
   ],
@@ -98,15 +111,15 @@
   "skills": [
     {
       "name": "Languages",
-      "keywords": ["Python", "SQL", "Scala"]
+      "keywords": ["Python", "SQL (PostgreSQL, SQLite, DuckDB)", "Scala"]
     },
     {
       "name": "Platforms",
-      "keywords": ["AWS", "Databricks"]
+      "keywords": ["AWS (S3, Athena)", "Databricks"]
     },
     {
       "name": "Tools",
-      "keywords": ["Spark SQL", "PySpark", "Airflow", "Athena", "Postgres", "SQLite", "pandas"]
+      "keywords": ["Spark", "Airflow", "pandas"]
     }
   ],
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
@@ -114,6 +127,6 @@
     "theme": "paper",
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
     "version": "v1.0.0",
-    "lastModified": "2021-04-28T00:00:00"
+    "lastModified": "2021-11-04T00:00:00"
   }
 }
