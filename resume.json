@@ -28,27 +28,27 @@
       "company": "Ekata (a Mastercard company)",
       "location": "Seattle, WA",
       "startDate": "2020-04-01",
+      "endDate": "2021-12-03",
       "position": "Senior Data Analyst",
       "website": "https://ekata.com/",
       "highlights": [
-        "Create data pipelines using Airflow to automate repetitive data loads",
-        "Designed a data evaluation method that guides $7M a year in data buying decisions",
-        "Lead Scrum ceremonies and manage the team’s Jira metrics",
-        "Mentor new team members on our Graph schema and using SparkSQL"
+        "Created data pipelines using Airflow to automate repetitive data transformations",
+        "Designed a data evaluation method that guided $7M a year in data buying decisions",
+        "Led Scrum ceremonies and managed the team’s Jira metrics",
+        "Mentored new team members on our Graph schema and how to use Spark SQL"
       ]
     },
     {
-      "company": "Ekata (a Mastercard company)",
+      "company": "Ekata",
       "location": "Seattle, WA",
       "startDate": "2019-01-01",
       "endDate": "2020-03-31",
       "position": "Data Analyst",
       "website": "https://ekata.com/",
       "highlights": [
-        "Lead Data Analyst on a high-stakes data replacement project that resulted in 10% improvement of Ekata’s Graph address data",
-        "Expert in the schema and structure of Ekata’s Graph database",
-        "Created a Jenkins integration to enable version control of Databricks notebooks",
-        "Ran what-if analysis on the customer impact of changes to our data ingestion logic"
+        "Ad hoc reporting as an expert in the schema of Ekata’s Graph database",
+        "Wrote a Jenkins integration using Python to enable version control of Databricks notebooks",
+        "Ran what-if analysis on the customer impact of changes to our data ingestion pipeline"
       ]
     },
     {
@@ -59,9 +59,9 @@
       "position": "Solutions Architect",
       "website": "https://ekata.com/",
       "highlights": [
-        "Created tailored solutions of our APIs for customers through analysis of their data to demonstrate a clear ROI",
+        "Developed tailored API solutions for customers to reduce e-commerce fraud",
         "Automated repeatable tasks by creating an internal Python module used by the team",
-        "Introduced Jupyter notebooks making it the new method of analysis, previously Excel"
+        "Introduced Jupyter notebooks, making it the new method of analysis (previously Excel)"
       ]
     },
     {
@@ -72,8 +72,8 @@
       "position": "Business Analyst",
       "website": "https://www.washington.edu/",
       "highlights": [
-        "Project Manager of a custom implementation of JD Edwards (Oracle) to manage $300 million in accounts receivable per year",
-        "Pulled data for budget analysts using SQL and UW’s Enterprise Data Warehouse (EDW)"
+        "Project manager for a custom implementation of JD Edwards (Oracle), managing $300M/year",
+        "Generated reports for budget analysts using SQL and UW’s Enterprise Data Warehouse"
       ]
     },
     {
@@ -83,7 +83,7 @@
       "endDate": "2015-04-30",
       "position": "Business Analyst / Project Manager",
       "highlights": [
-        "Implemented professional services projects for a .NET crisis management CMS",
+        "Managed professional services projects for a .NET crisis management platform (WebEOC)",
         "Lead Business Analyst for $5 million, multi-year project with the state of California"
       ]
     },
@@ -111,7 +111,7 @@
   "skills": [
     {
       "name": "Languages",
-      "keywords": ["Python", "SQL (PostgreSQL, SQLite, DuckDB)", "Scala"]
+      "keywords": ["Python", "SQL (PostgreSQL, SQLite)"]
     },
     {
       "name": "Platforms",
@@ -119,7 +119,7 @@
     },
     {
       "name": "Tools",
-      "keywords": ["Spark", "Airflow", "pandas"]
+      "keywords": ["Spark", "Airflow", "pandas", "matplotlib"]
     }
   ],
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
@@ -127,6 +127,6 @@
     "theme": "paper",
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
     "version": "v1.0.0",
-    "lastModified": "2021-11-04T00:00:00"
+    "lastModified": "2022-01-30T00:00:00"
   }
 }
