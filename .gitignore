@@ -3,3 +3,8 @@
 public/
 
 notes.md
+
+node_modules/
+package*.json
+
+*.bk
