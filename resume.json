@@ -5,6 +5,7 @@
     "image": "https://www.gravatar.com/avatar/0e5e4bf192a59ed85e67cd71870cd72a",
     "email": "mike@mike-yu.com",
     "website": "https://mike-yu.com",
+    "summary": "7+ years using Python and SQL to extract meaningful insights from data and distill results for leadership. Leverages technical and customer-facing experience to create strong partnerships with stakeholders and deliver actionable conclusions.",
     "location": {
       "city": "Seattle",
       "countryCode": "US",
@@ -20,6 +21,10 @@
         "network": "GitHub",
         "username": "joeeoj",
         "url": "https://github.com/joeeoj"
+      },
+      {
+        "network": "Portfolio",
+        "url": "https://mike-yu.com/projects"
       }
     ]
   },
@@ -32,10 +37,12 @@
       "position": "Senior Data Analyst",
       "website": "https://ekata.com/",
       "highlights": [
-        "Created data pipelines using Airflow to automate repetitive data transformations",
-        "Designed a data evaluation method that guided $7M a year in data buying decisions",
-        "Led Scrum ceremonies and managed the team’s Jira metrics",
-        "Mentored new team members on our Graph schema and how to use Spark SQL"
+        "Senior member on project to design and implement data evaluation methodology responsible for guiding $7M/year in data buying decisions",
+        "Responsible for maintaining and improving Ekata’s data quality process to ensure products were consistently backed by accurate data",
+        "Worked on data engineer tickets such as using Airflow to automate data loads",
+        "Led Scrum ceremonies (stand up, etc.) and managed Jira metrics for a team of seven",
+        "Mentored new team members on Ekata’s Graph schema and how to use Spark SQL",
+        "Created self-serve Databricks notebooks to teach Ekata’s schema and common Spark SQL idioms"
       ]
     },
     {
@@ -46,9 +53,9 @@
       "position": "Data Analyst",
       "website": "https://ekata.com/",
       "highlights": [
-        "Ad hoc reporting as an expert in the schema of Ekata’s Graph database",
-        "Wrote a Jenkins integration using Python to enable version control of Databricks notebooks",
-        "Ran what-if analysis on the customer impact of changes to our data ingestion pipeline"
+        "Combined systems knowledge, SQL, and programming abilities to model the impact on downstream product performance based on changes to our data ingestion pipeline",
+        "Wrote a Jenkins integration to enable version control on Databricks notebooks",
+        "Took the initiative to create a take-home interview assignment to test candidates on their analytical skills, presentation abilities, and creativity"
       ]
     },
     {
@@ -59,9 +66,9 @@
       "position": "Solutions Architect",
       "website": "https://ekata.com/",
       "highlights": [
-        "Developed tailored API solutions for customers to reduce e-commerce fraud",
-        "Automated repeatable tasks by creating an internal Python module used by the team",
-        "Introduced Jupyter notebooks, making it the new method of analysis (previously Excel)"
+        "Created tailored API recommendations for customers to demonstrate positive ROI by decreasing e-commerce fraud and increasing approval rates",
+        "Introduced Jupyter notebooks to the team as a replacement to Excel. This enabled rapid scaling of team output through code automation. It also paved the way for moving beyond rules-based recommendations to machine learning solutions and resulted in closing deals with increasingly sophisticated customers",
+        "Automated work by developing a Python module of analytical tools for the team"
       ]
     },
     {
@@ -72,7 +79,7 @@
       "position": "Business Analyst",
       "website": "https://www.washington.edu/",
       "highlights": [
-        "Project manager for a custom implementation of JD Edwards (Oracle), managing $300M/year",
+        "Project manager for a custom implementation of JD Edwards (Oracle), responsible for managing $300M/year in grant funding",
         "Generated reports for budget analysts using SQL and UW’s Enterprise Data Warehouse"
       ]
     },
@@ -83,8 +90,8 @@
       "endDate": "2015-04-30",
       "position": "Business Analyst / Project Manager",
       "highlights": [
-        "Managed professional services projects for a .NET crisis management platform (WebEOC)",
-        "Lead Business Analyst for $5 million, multi-year project with the state of California"
+        "PM of Nuclear energy customers for professional services projects for a crisis management platform",
+        "Lead Business Analyst for a $5M, multi-year project with the state of California that involved frequent onsite discovery sessions with business process modeling"
       ]
     },
     {
@@ -94,7 +101,7 @@
       "endDate": "2012-09-28",
       "position": "Sales Specialist",
       "highlights": [
-        "Supported sales team with contract management, billing inquiries, and ad copy changes"
+        "Supported sales team with contract management and billing inquiries"
       ]
     }
   ],
@@ -111,22 +118,22 @@
   "skills": [
     {
       "name": "Languages",
-      "keywords": ["Python", "SQL (PostgreSQL, SQLite)"]
+      "keywords": ["Python", "SQL", "SparkSQL"]
     },
     {
       "name": "Platforms",
-      "keywords": ["AWS (S3, Athena)", "Databricks"]
+      "keywords": ["AWS", "Databricks", "Confluence/JIRA"]
     },
     {
       "name": "Tools",
-      "keywords": ["Spark", "Airflow", "pandas", "matplotlib"]
+      "keywords": ["Airflow", "PostgreSQL", "JupyterLab", "pandas"]
     }
   ],
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "meta": {
     "theme": "paper",
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
-    "version": "v1.0.0",
-    "lastModified": "2022-01-30T00:00:00"
+    "version": "v1.1.0",
+    "lastModified": "2022-04-05T00:00:00"
   }
 }
